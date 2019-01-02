@@ -1,0 +1,25 @@
+{
+  "name": "spotifyapiaccess",
+  "version": "1.0.0",
+  "description": "Access to my spotify account over the API",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/guidosch/spotifyAPIAccess"
+  },
+  "keywords": [
+    "spotify"
+  ],
+  "author": "Guido Schnider",
+  "license": "ISC",
+  "dependencies": {
+    "eslint": "^5.11.1",
+    "q": "^1.5.1",
+    "spotify-web-api-js": "^1.1.1",
+    "spotify-web-api-node": "^4.0.0",
+    "xmlhttprequest": "^1.8.0"
+  }
+}

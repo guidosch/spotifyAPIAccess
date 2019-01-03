@@ -17,6 +17,7 @@
   "license": "ISC",
   "dependencies": {
     "eslint": "^5.11.1",
+    "json2csv": "^4.3.2",
     "q": "^1.5.1",
     "spotify-web-api-js": "^1.1.1",
     "spotify-web-api-node": "^4.0.0",

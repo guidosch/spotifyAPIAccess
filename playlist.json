@@ -1,0 +1,37 @@
+{ collaborative: false,
+  external_urls:
+   { spotify: 'https://open.spotify.com/playlist/0QJ0B9LsZqnbY3zB1hSUtt' },
+  href:
+   'https://api.spotify.com/v1/playlists/0QJ0B9LsZqnbY3zB1hSUtt',
+  id: '0QJ0B9LsZqnbY3zB1hSUtt',
+  images:
+   [ { height: 640,
+       url:
+        'https://mosaic.scdn.co/640/08a03fd8e22d7dd838e49fdaa1b17cc1511571ea2a78493becd7abefa9b01fae706b51596c6cd00ee9eab562f081971279af87d8c25052eb03812c6ffa36d24ba19ab3865ac417d34680e8066df7edfc',
+       width: 640 },
+     { height: 300,
+       url:
+        'https://mosaic.scdn.co/300/08a03fd8e22d7dd838e49fdaa1b17cc1511571ea2a78493becd7abefa9b01fae706b51596c6cd00ee9eab562f081971279af87d8c25052eb03812c6ffa36d24ba19ab3865ac417d34680e8066df7edfc',
+       width: 300 },
+     { height: 60,
+       url:
+        'https://mosaic.scdn.co/60/08a03fd8e22d7dd838e49fdaa1b17cc1511571ea2a78493becd7abefa9b01fae706b51596c6cd00ee9eab562f081971279af87d8c25052eb03812c6ffa36d24ba19ab3865ac417d34680e8066df7edfc',
+       width: 60 } ],
+  name: 'Soul',
+  owner:
+   { display_name: 'Guido Schnider',
+     external_urls: { spotify: 'https://open.spotify.com/user/1135449039' },
+     href: 'https://api.spotify.com/v1/users/1135449039',
+     id: '1135449039',
+     type: 'user',
+     uri: 'spotify:user:1135449039' },
+  primary_color: null,
+  public: true,
+  snapshot_id:
+   'NDgsYzY4YTc4NmUzNmFmZmQ4NjA4ZDE0MWQ5MWRhYzRlOGVlNTQxZDQ1OA==',
+  tracks:
+   { href:
+      'https://api.spotify.com/v1/playlists/0QJ0B9LsZqnbY3zB1hSUtt/tracks',
+     total: 45 },
+  type: 'playlist',
+  uri: 'spotify:user:1135449039:playlist:0QJ0B9LsZqnbY3zB1hSUtt' }
